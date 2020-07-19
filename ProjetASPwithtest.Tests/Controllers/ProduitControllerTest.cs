@@ -51,7 +51,7 @@ namespace ProjetASPwithtest.Tests.Controllers
 
             var result = controller.GetNumber19();
             // Assert
-            Assert.AreEqual(result, 18);
+            Assert.AreEqual(result, 19);
         }
     }
 }
